@@ -8,7 +8,7 @@ Features :
 	
  	- All the doctors can go throudh the website for daily updates.
 	
-        - Reduces scope of error.
+	- Reduces scope of error.
 	
         - It is faster than manual system.
 

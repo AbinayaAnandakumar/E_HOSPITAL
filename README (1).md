@@ -10,7 +10,7 @@ Features :
 	
 	- Reduces scope of error.
 	
-        - It is faster than manual system.
+	- It is faster than manual system.
 
 ## Requirements 
 

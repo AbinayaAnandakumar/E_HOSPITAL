@@ -88,8 +88,8 @@ These are the scripting languages and environment used in this module
 These are the main goals of this module
 	
 	-   In order to check the correctness of the login details we have used a servlet page which fetch the details from the database.
-
-        -   After the correct login the users get into their respective accounts where they will see the corresponding 3 html pages.
+	
+	-   After the correct login the users get into their respective accounts where they will see the corresponding 3 html pages.
 
 
 These are the scripting languages and environment used in this module 
